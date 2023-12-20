@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Student">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAABAABAAAQAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Student.h</FileName>
+      <NewMemberFileName>Admin.h</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAAAAAAABAAAAAAQAAEAQAAAABBAAgAAAAAAA=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Input">
+    <Position X="13.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgEAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Input.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teacher">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAgAAAAAAAAAAAEAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Teacher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAABDACQIAgAAAIAAAAAEBFAAAEAAAAAgAAQAA=</HashCode>
+      <FileName>User.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zapis">
+    <Position X="5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABEAAAAAIACAggAAACCAAAGAAACAEAAAABAAIAAgA=</HashCode>
+      <FileName>Zapis.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
