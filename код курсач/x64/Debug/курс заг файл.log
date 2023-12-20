@@ -1,0 +1,98 @@
+﻿  CourseJS.cpp
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,42): error C2065: Zapis: необъявленный идентификатор
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,35): error C2923: std::vector: "Zapis" не является допустимым аргументом типа шаблон для параметра "_Ty"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,42): message : см. объявление "Zapis"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,35): error C2976: std::vector: слишком мало аргументов шаблон
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vector(438,1): message : см. объявление "std::vector"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(30,44): error C2065: Zapis: необъявленный идентификатор
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(30,37): error C2923: std::vector: "Zapis" не является допустимым аргументом типа шаблон для параметра "_Ty"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(30,44): message : см. объявление "Zapis"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(30,37): error C2976: std::vector: слишком мало аргументов шаблон
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vector(438,1): message : см. объявление "std::vector"
+C:\Users\Asus\Downloads\коооооооод\код курсач\CourseJS.cpp(35,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Group.cpp
+C:\Users\Asus\Downloads\коооооооод\код курсач\Group.h(79,4): error C2561: Group::getStudent: функция должна возвращать значение
+C:\Users\Asus\Downloads\коооооооод\код курсач\Group.h(70,10): message : см. объявление "Group::getStudent"
+  Student.cpp
+  Zapis.cpp
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,42): error C2065: Zapis: необъявленный идентификатор
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,35): error C2923: std::vector: "Zapis" не является допустимым аргументом типа шаблон для параметра "_Ty"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,42): message : см. объявление "Zapis"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,35): error C2976: std::vector: слишком мало аргументов шаблон
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vector(438,1): message : см. объявление "std::vector"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(30,44): error C2065: Zapis: необъявленный идентификатор
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(30,37): error C2923: std::vector: "Zapis" не является допустимым аргументом типа шаблон для параметра "_Ty"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(30,44): message : см. объявление "Zapis"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(30,37): error C2976: std::vector: слишком мало аргументов шаблон
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vector(438,1): message : см. объявление "std::vector"
+C:\Users\Asus\Downloads\коооооооод\код курсач\Zapis.cpp(9,27): error C3861: MaxLenght: идентификатор не найден
+C:\Users\Asus\Downloads\коооооооод\код курсач\Zapis.cpp(10,27): error C3861: MaxLenght: идентификатор не найден
+C:\Users\Asus\Downloads\коооооооод\код курсач\Zapis.cpp(216,28): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asus\Downloads\коооооооод\код курсач\Zapis.cpp(256,28): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asus\Downloads\коооооооод\код курсач\Zapis.cpp(296,28): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asus\Downloads\коооооооод\код курсач\Zapis.cpp(412,15): error C2664: "void FileManager::SaveOrdersToFileLIST(std::vector &)": невозможно преобразовать аргумент 1 из "std::vector<Zapis,std::allocator<Zapis>>" в "std::vector &"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,14): message : см. объявление "FileManager::SaveOrdersToFileLIST"
+C:\Users\Asus\Downloads\коооооооод\код курсач\Zapis.cpp(412,15): message : при попытке сопоставить список аргументов "(std::vector<Zapis,std::allocator<Zapis>>)"
+C:\Users\Asus\Downloads\коооооооод\код курсач\Zapis.cpp(460,15): error C2664: "void FileManager::SaveOrdersToFileLIST(std::vector &)": невозможно преобразовать аргумент 1 из "std::vector<Zapis,std::allocator<Zapis>>" в "std::vector &"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,14): message : см. объявление "FileManager::SaveOrdersToFileLIST"
+C:\Users\Asus\Downloads\коооооооод\код курсач\Zapis.cpp(460,15): message : при попытке сопоставить список аргументов "(std::vector<Zapis,std::allocator<Zapis>>)"
+C:\Users\Asus\Downloads\коооооооод\код курсач\Zapis.cpp(511,15): error C2664: "void FileManager::SaveOrdersToFileLIST(std::vector &)": невозможно преобразовать аргумент 1 из "std::vector<Zapis,std::allocator<Zapis>>" в "std::vector &"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,14): message : см. объявление "FileManager::SaveOrdersToFileLIST"
+C:\Users\Asus\Downloads\коооооооод\код курсач\Zapis.cpp(511,15): message : при попытке сопоставить список аргументов "(std::vector<Zapis,std::allocator<Zapis>>)"
+C:\Users\Asus\Downloads\коооооооод\код курсач\Zapis.cpp(621,16): error C2664: "void FileManager::SaveOrdersToFileLIST(std::vector &)": невозможно преобразовать аргумент 1 из "std::vector<Zapis,std::allocator<Zapis>>" в "std::vector &"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,14): message : см. объявление "FileManager::SaveOrdersToFileLIST"
+C:\Users\Asus\Downloads\коооооооод\код курсач\Zapis.cpp(621,16): message : при попытке сопоставить список аргументов "(std::vector<Zapis,std::allocator<Zapis>>)"
+C:\Users\Asus\Downloads\коооооооод\код курсач\Zapis.cpp(627,16): error C2664: "void FileManager::SaveOrdersToFileLIST(std::vector &)": невозможно преобразовать аргумент 1 из "std::vector<Zapis,std::allocator<Zapis>>" в "std::vector &"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,14): message : см. объявление "FileManager::SaveOrdersToFileLIST"
+C:\Users\Asus\Downloads\коооооооод\код курсач\Zapis.cpp(627,16): message : при попытке сопоставить список аргументов "(std::vector<Zapis,std::allocator<Zapis>>)"
+C:\Users\Asus\Downloads\коооооооод\код курсач\Zapis.cpp(633,16): error C2664: "void FileManager::SaveOrdersToFileLIST(std::vector &)": невозможно преобразовать аргумент 1 из "std::vector<Zapis,std::allocator<Zapis>>" в "std::vector &"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,14): message : см. объявление "FileManager::SaveOrdersToFileLIST"
+C:\Users\Asus\Downloads\коооооооод\код курсач\Zapis.cpp(633,16): message : при попытке сопоставить список аргументов "(std::vector<Zapis,std::allocator<Zapis>>)"
+  курсач заг файл.cpp
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,42): error C2065: Zapis: необъявленный идентификатор
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,35): error C2923: std::vector: "Zapis" не является допустимым аргументом типа шаблон для параметра "_Ty"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,42): message : см. объявление "Zapis"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,35): error C2976: std::vector: слишком мало аргументов шаблон
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vector(438,1): message : см. объявление "std::vector"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(30,44): error C2065: Zapis: необъявленный идентификатор
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(30,37): error C2923: std::vector: "Zapis" не является допустимым аргументом типа шаблон для параметра "_Ty"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(30,44): message : см. объявление "Zapis"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(30,37): error C2976: std::vector: слишком мало аргументов шаблон
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vector(438,1): message : см. объявление "std::vector"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(98,17): error C2664: "void FileManager::LoadOrdersFromFileLIST(std::vector &)": невозможно преобразовать аргумент 1 из "std::vector<Zapis,std::allocator<Zapis>>" в "std::vector &"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(30,14): message : см. объявление "FileManager::LoadOrdersFromFileLIST"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(98,17): message : при попытке сопоставить список аргументов "(std::vector<Zapis,std::allocator<Zapis>>)"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(149,18): error C2664: "void FileManager::SaveOrdersToFileLIST(std::vector &)": невозможно преобразовать аргумент 1 из "std::vector<Zapis,std::allocator<Zapis>>" в "std::vector &"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,14): message : см. объявление "FileManager::SaveOrdersToFileLIST"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(149,18): message : при попытке сопоставить список аргументов "(std::vector<Zapis,std::allocator<Zapis>>)"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(153,18): error C2664: "void FileManager::SaveOrdersToFileLIST(std::vector &)": невозможно преобразовать аргумент 1 из "std::vector<Zapis,std::allocator<Zapis>>" в "std::vector &"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,14): message : см. объявление "FileManager::SaveOrdersToFileLIST"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(153,18): message : при попытке сопоставить список аргументов "(std::vector<Zapis,std::allocator<Zapis>>)"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(253,17): error C2664: "void FileManager::LoadOrdersFromFileLIST(std::vector &)": невозможно преобразовать аргумент 1 из "std::vector<Zapis,std::allocator<Zapis>>" в "std::vector &"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(30,14): message : см. объявление "FileManager::LoadOrdersFromFileLIST"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(253,17): message : при попытке сопоставить список аргументов "(std::vector<Zapis,std::allocator<Zapis>>)"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(268,18): error C2664: "void FileManager::SaveOrdersToFileLIST(std::vector &)": невозможно преобразовать аргумент 1 из "std::vector<Zapis,std::allocator<Zapis>>" в "std::vector &"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,14): message : см. объявление "FileManager::SaveOrdersToFileLIST"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(268,18): message : при попытке сопоставить список аргументов "(std::vector<Zapis,std::allocator<Zapis>>)"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(323,18): error C2664: "void FileManager::SaveOrdersToFileLIST(std::vector &)": невозможно преобразовать аргумент 1 из "std::vector<Zapis,std::allocator<Zapis>>" в "std::vector &"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,14): message : см. объявление "FileManager::SaveOrdersToFileLIST"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(323,18): message : при попытке сопоставить список аргументов "(std::vector<Zapis,std::allocator<Zapis>>)"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(329,18): error C2664: "void FileManager::SaveOrdersToFileLIST(std::vector &)": невозможно преобразовать аргумент 1 из "std::vector<Zapis,std::allocator<Zapis>>" в "std::vector &"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,14): message : см. объявление "FileManager::SaveOrdersToFileLIST"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(329,18): message : при попытке сопоставить список аргументов "(std::vector<Zapis,std::allocator<Zapis>>)"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(427,17): error C2664: "void FileManager::LoadOrdersFromFileLIST(std::vector &)": невозможно преобразовать аргумент 1 из "std::vector<Zapis,std::allocator<Zapis>>" в "std::vector &"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(30,14): message : см. объявление "FileManager::LoadOrdersFromFileLIST"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(427,17): message : при попытке сопоставить список аргументов "(std::vector<Zapis,std::allocator<Zapis>>)"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(442,18): error C2664: "void FileManager::SaveOrdersToFileLIST(std::vector &)": невозможно преобразовать аргумент 1 из "std::vector<Zapis,std::allocator<Zapis>>" в "std::vector &"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,14): message : см. объявление "FileManager::SaveOrdersToFileLIST"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(442,18): message : при попытке сопоставить список аргументов "(std::vector<Zapis,std::allocator<Zapis>>)"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(487,18): error C2664: "void FileManager::SaveOrdersToFileLIST(std::vector &)": невозможно преобразовать аргумент 1 из "std::vector<Zapis,std::allocator<Zapis>>" в "std::vector &"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,14): message : см. объявление "FileManager::SaveOrdersToFileLIST"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(487,18): message : при попытке сопоставить список аргументов "(std::vector<Zapis,std::allocator<Zapis>>)"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(493,18): error C2664: "void FileManager::SaveOrdersToFileLIST(std::vector &)": невозможно преобразовать аргумент 1 из "std::vector<Zapis,std::allocator<Zapis>>" в "std::vector &"
+C:\Users\Asus\Downloads\коооооооод\код курсач\FileManager.h(29,14): message : см. объявление "FileManager::SaveOrdersToFileLIST"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(493,18): message : при попытке сопоставить список аргументов "(std::vector<Zapis,std::allocator<Zapis>>)"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(569,15): error C2039: "InputInt": не является членом "Zapis".
+C:\Users\Asus\Downloads\коооооооод\код курсач\Zapis.h(22,7): message : см. объявление "Zapis"
+C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(569,23): error C3861: InputInt: идентификатор не найден
+  Создание кода...
