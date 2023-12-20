@@ -682,9 +682,6 @@ int main()
 		std::cout << "\b\b\b   \b\b\b" << std::flush;
 	}*/
 	int variant = menu();
-	Student student;
-	student.nameGet();
-
 
 	switch (variant)
 	{

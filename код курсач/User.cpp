@@ -9,16 +9,6 @@
 		phoneNumber = "0";
 		email = "0";
 	}
-	User::User(User& node)//конструктор копирования
-	{
-
-		/*id = node.id;*/
-		age = node.age;
-		name = move(node.name);
-		password = move(node.password);
-		phoneNumber = move(node.phoneNumber);
-		email = move(node.email);
-	}
 	User::User(string name, string password, string phoneNumber, string email, int age)
 	{
 		/*this->id = id;*/

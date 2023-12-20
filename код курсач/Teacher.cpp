@@ -5,9 +5,6 @@ Teacher::Teacher() :User() {}
 Teacher::Teacher(string name, string password, string phoneNumber, string email, int age)
 	:User(name, password, phoneNumber, email, age) {}
 
-Teacher::Teacher(Teacher& node)
-	:User(node) {}
-
 bool Teacher::TeacherSearch(string teacherName)
 {
 	FILE* f;

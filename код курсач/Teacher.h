@@ -21,7 +21,6 @@ class Teacher: public User
 {
 public:
 	Teacher();
-	Teacher(Teacher& node);
 	Teacher(string name, string password, string phoneNumber, string email, int age);
 
 	static bool TeacherSearch(string teacherName);

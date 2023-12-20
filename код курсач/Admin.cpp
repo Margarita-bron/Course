@@ -5,9 +5,6 @@ Admin::Admin() :User() {}
 Admin::Admin(string name, string password, string phoneNumber, string email, int age)
 	:User(name, password, phoneNumber, email, age) {}
 
-Admin::Admin(Admin& node)
-	:User(node) {}
-
 
 bool Admin::AdminSearch(string adminName)
 {

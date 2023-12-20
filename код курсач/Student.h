@@ -22,7 +22,6 @@ class Student : public User
 public:
 	int groupName;
 	Student();
-	Student(Student& node);
 	Student(string name, string password, string phoneNumber, string email, int age);
 	int groupNameGet();
 	void groupNameSet(int groupName);

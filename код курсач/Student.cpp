@@ -5,9 +5,6 @@ Student::Student() :User() {}
 Student::Student(string name, string password, string phoneNumber, string email, int age)
 	:User(name, password, phoneNumber, email, age) {}
 
-Student::Student(Student& node)
-	:User(node) {}
-
 /*int Student::groupNameGet()
 {
 	return groupName;

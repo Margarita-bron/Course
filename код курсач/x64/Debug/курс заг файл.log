@@ -1,7 +1,1 @@
-﻿  Student.cpp
-  курсач заг файл.cpp
-  Создание кода...
-C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(166): warning C4715: UserEnter: значение возвращается не при всех путях выполнения
-C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(359): warning C4715: AdminEnter: значение возвращается не при всех путях выполнения
-C:\Users\Asus\Downloads\коооооооод\код курсач\курсач заг файл.cpp(520): warning C4715: TeacherEnter: значение возвращается не при всех путях выполнения
-  курс заг файл.vcxproj -> C:\Users\Asus\Downloads\коооооооод\код курсач\x64\Debug\курс заг файл.exe
+﻿  курс заг файл.vcxproj -> C:\Users\Asus\Downloads\коооооооод\код курсач\x64\Debug\курс заг файл.exe

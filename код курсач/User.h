@@ -25,7 +25,6 @@ public:
 	string email;
 	int age;
 	User();
-	User(User& node);
 	User(string name, string password, string phoneNumber, string email, int age);
 	int IDGet();
 	int ageGet();
